@@ -1,1 +1,2 @@
-# mogakso-Do-it-java-programming
+# 모각소 떡국먹고성적꿀떡
+# Do it! 자바 프로그래밍 입문 책 학습
